@@ -1,6 +1,6 @@
 # [과제1] Bottom Navigation, ViewPager, RecyclerView
 
-![Alt Text](https://i.imgflip.com/3zal5u.gif)
+![Alt Text](https://i.imgflip.com/3zf0gn.gif)
 
 
 # [과제2] itemDecoration, clipToPadding
