@@ -143,7 +143,7 @@ import retrofit2.http.Headers
 import retrofit2.http.Query
 
 interface RequestInterfaceBook {
-    @Headers("Authorization: KakaoAK 8132143585be1dcb6c82b159286694fb")
+    @Headers("Authorization: KakaoAK 구한 ")
     @GET("/v3/search/book")
 
     fun requestBook(@Query("query") bookTitle : String) : Call<ResponseBookData>
